@@ -10,11 +10,11 @@
     }
     
     .container{
-      background: white;
+      background: rgb(189, 196, 93);
       opacity: 0.90;
-      max-width: 80%; 
+      max-width: 50%; 
       margin: auto; /* this helps centering */
-      border: 3px solid black;
+      border: 5px solid black;
       border-radius: 10px;
     }
     
@@ -31,7 +31,7 @@
     
     button {
       /*border: none; */
-      border: 1px solid #211717;
+      border: 3px solid #211717;
       padding-top: 10px;
       padding-bottom: 10px;
       color: white;
@@ -42,10 +42,10 @@
     }
     
     #increment-btn {
-     background: #2C2891;;
+     background: #40c8da;
     }
     
     #save-btn {
-      background: #660063;
+      background: #a221ad;
     }
     

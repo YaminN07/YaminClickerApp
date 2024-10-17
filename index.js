@@ -8,3 +8,6 @@ function increment() {
     studentCount ++;
     document.getElementById("count-el").innerText = studentCount;
 }
+function save() {
+    document.getElementById("saved").innerText += studentCount + "-";
+}
